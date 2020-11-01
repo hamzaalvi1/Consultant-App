@@ -10,10 +10,10 @@ return(
             <div className = "consult_detail">
                 <h4>Consultant/Volunteer Name</h4>
                 <span className = "icons">
-                 <a href = "https://twitter.com/BillGates" target = "_blank" ><i class="fab fa-twitter"></i></a>
-                 <a href = "https://www.instagram.com/thisisbillgates/?hl=en" target = "_blank" > <i class="fab fa-instagram"></i></a>
-                 <a href = "https://www.facebook.com/BillGates/" target = "_blank" ><i class="fab fa-facebook-f"></i></a>
-                <i class="fab fa-medium-m"></i>
+                 <a href = "https://twitter.com/BillGates" target = "_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
+                 <a href = "https://www.instagram.com/thisisbillgates/?hl=en" rel="noreferrer" target = "_blank" > <i className="fab fa-instagram"></i></a>
+                 <a href = "https://www.facebook.com/BillGates/" target = "_blank" rel="noreferrer" ><i className="fab fa-facebook-f"></i></a>
+                <i className="fab fa-medium-m"></i>
                 </span>
                 <p>Description of the user and more <br/> details of the user / consultant /<br/> volunteer.</p>
                 <p>Lorem ipsum dolor sit amet consectetur<br/> adipisicing elit.</p>
