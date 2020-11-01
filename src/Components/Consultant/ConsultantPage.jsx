@@ -10,9 +10,9 @@ return(
             <div className = "consult_detail">
                 <h4>Consultant/Volunteer Name</h4>
                 <span className = "icons">
-                <i class="fab fa-twitter"></i>
-                <i class="fab fa-instagram"></i>
-                <i class="fab fa-facebook-f"></i>
+                 <a href = "https://twitter.com/BillGates" target = "_blank" ><i class="fab fa-twitter"></i></a>
+                 <a href = "https://www.instagram.com/thisisbillgates/?hl=en" target = "_blank" > <i class="fab fa-instagram"></i></a>
+                 <a href = "https://www.facebook.com/BillGates/" target = "_blank" ><i class="fab fa-facebook-f"></i></a>
                 <i class="fab fa-medium-m"></i>
                 </span>
                 <p>Description of the user and more <br/> details of the user / consultant /<br/> volunteer.</p>
